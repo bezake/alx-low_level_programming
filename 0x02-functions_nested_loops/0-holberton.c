@@ -1,13 +1,10 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
 #include "holberton.h"
-/** 
- * main - print holberton
- * Descrioption: using the main function
- * this program prints "Holberton"
- * return: 0
+
+/**
+ * main - print Holberton, followed by new line
+ * Return: 0
  */
+
 int main(void)
 {
 	_putchar('H');
@@ -20,5 +17,6 @@ int main(void)
 	_putchar('o');
 	_putchar('n');
 	_putchar('\n');
+
 	return (0);
 }
