@@ -1,5 +1,1 @@
-#ifndef PI
-
-#define PI 3.14159265359
-
-#endif /* PI */
+0x0D-preprocessor
